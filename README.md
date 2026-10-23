@@ -1,7 +1,13 @@
 # javascript-todo-application
 A Todo Application built with HTML, CSS, and JavaScript to practice DOM manipulation, event handling, and Local Storage.
 
+
 # JavaScript Todo Application
+
+## 🎥 Project Demo
+
+[▶️ Watch the Todo Application Screen Recording](https://youtu.be/ppm6m0ZjcwE)
+
 
 A Todo Application developed as part of my JavaScript learning journey with NxtWave.
 
